@@ -25,17 +25,17 @@
 
 2. 스프링 부트 활용
 	2-1. 스프링 부트 핵심 기능
- 	- SpringApplication
- 	- 외부 설정
- 	- 로깅
- 	- 테스트
- 	- Spring-Boot-Devtools
+ 		- SpringApplication
+ 		- 외부 설정
+ 		- 로깅
+ 		- 테스트
+ 		- Spring-Boot-Devtools
 	2-2. 각종 기술 연동
- 	- 스프링 웹 MVC
- 	- 스프링 데이터
- 	- 스프링 시큐리티
- 	- REST 클라이언트
+ 		- 스프링 웹 MVC
+ 		- 스프링 데이터
+ 		- 스프링 시큐리티
+ 		- REST 클라이언트
 3. 스프링 부트 운영
 	- 엔드포인트
 	- 메트릭스
- - 모니터링
+	- 모니터링
